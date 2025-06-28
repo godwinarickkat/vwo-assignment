@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩸 Blood Test Report Analyser API
 
 This is a FastAPI-based intelligent report analyser that accepts blood test PDFs, extracts and analyzes the content using a team of virtual agents (Doctor, Verifier, Nutritionist, and Fitness Coach), and returns quirky, role-based summaries. The system is built with **CrewAI**, **LangChain**, and **OpenAI GPT-4**.
@@ -48,3 +49,4 @@ This is a FastAPI-based intelligent report analyser that accepts blood test PDFs
 ```bash
 git clone https://github.com/your-username/blood-test-analyser-debug.git
 cd blood-test-analyser-debug
+=======
